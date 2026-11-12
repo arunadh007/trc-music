@@ -42,10 +42,12 @@ https://music.trc.com.np/p/login.html
 
 ## Version History
 
-### v1.0.3 — 12 November 2026
+### v1.0.0 — 12 November 2026
+- Initial TRC Music Login Page release
+- Login and Signup frontend completed
+- Full Name field styling completed
+- Mobile responsive layout completed
 - Login page rendering fixed
-- Signup Full Name field fixed
-- Input field spacing improved
 
 ## Future Updates
 Add all new login page features and changes here.
